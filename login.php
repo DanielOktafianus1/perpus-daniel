@@ -30,7 +30,7 @@ if (isset($_POST['submit'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Form</title>
-    <link rel="stylesheet" href="assets/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap-5.3.3-dist/css/bootstrap.min.css">
 
 </head>
 
@@ -57,6 +57,7 @@ if (isset($_POST['submit'])) {
             </div>
         </div>
     </div>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 </body>
 
 </html>
